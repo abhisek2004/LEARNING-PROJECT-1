@@ -124,8 +124,8 @@ For inquiries, please reach out to us via our email or social media.
 
 ## 📸 Website Preview
 ![Website Preview]
-  (https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/d46487d3-9daf-4be3-9847-023e3fe67c81) 
-  
+  ![Screenshot 2023-11-26 170137](https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/d46487d3-9daf-4be3-9847-023e3fe67c81)
+
 ![0 (1)](https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/b7066909-51e8-42d6-bf9e-28b78c2e8dbb)
 
 0![0 (2)](https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/2f113891-1c26-4766-90ac-0e8df77b097c)
@@ -155,6 +155,7 @@ For inquiries, please reach out to us via our email or social media.
 ![10](https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/51839328-b59f-40dd-9c5f-43c0c3b737d2)
 
 ![11](https://github.com/abhisek2004/LEARNING-PROJECT-1/assets/117925314/298aac65-b9ec-4895-9b07-74462b6c04a1)
+
 
 ## Our Contributors
 - Abhisek Panda
