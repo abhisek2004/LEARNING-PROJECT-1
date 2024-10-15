@@ -2,38 +2,7 @@
 # LEARNING-PROJECT-1 
 # Social Linkup Webpage (Reach Me ) Connecting People Together 
 
-**Created by:**  
-👨‍🎓 Abhisek Panda - 22CSE072  
-👨‍🎓 Gobinda Gagan Dey - 22CSE094  
-👨‍🎓 Debabrata Mishra - 22CSE140  
-
-**BACHELOR IN TECHNOLOGY**  
-**DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING**  
-**SCHOOL OF ENGINEERING AND TECHNOLOGY**  
-**GANDHI INSTITUTE OF ENGINEERING & TECHNOLOGY UNIVERSITY, GUNUPUR- 765022, ODISHA**  
-
-**September 2023**  
-**Technologies Used:**  
-- PHP: 65.6%  
-- CSS: 18.5%  
-- HTML: 8.1%  
-- JavaScript: 7.8%  
----
-**Project Description:**  
-Our project, "Social Linkup Webpage (Reach Me): Connecting People Together," aims to create a platform that fosters social connections among individuals. This webpage serves as a means for people to link up, share information, and stay connected in a user-friendly and interactive environment.
-
-**Features:**
-- 🧑‍💻 **User Profiles:** Create and customize personal profiles to share information about yourself.
-- 💬 **Messaging:** Real-time messaging to stay in touch with friends and family.
-- 📅 **Events:** Organize and join events to meet new people and build connections.
-- 🌐 **Forums:** Participate in community discussions on various topics of interest.
-- 📸 **Photo Sharing:** Upload and share photos with your network.
-
-**Technological Breakdown:**  
-- **PHP (65.6%):** The backbone of our web application, handling server-side logic and database interactions.
-- **CSS (18.5%):** Styling and layout to ensure an attractive and responsive user interface.
-- **HTML (8.1%):** The structural framework of our web pages.
-- **JavaScript (7.8%):** Enhancing interactivity and user experience with dynamic content updates and form validations.
+*
 
 [Social Media Webpage Presentation final.pptx](https://github.com/abhisek2004/LEARNING-PROJECT-1/files/13766872/Social.Media.Webpage.Presentation.final.pptx)
 [PROJECT COMPLETE.pdf](https://github.com/abhisek2004/LEARNING-PROJECT-1/files/13766873/PROJECT.COMPLETE.pdf)
