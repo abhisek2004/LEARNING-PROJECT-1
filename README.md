@@ -7,10 +7,6 @@
 [Social Media Webpage Presentation final.pptx](https://github.com/abhisek2004/LEARNING-PROJECT-1/files/13766872/Social.Media.Webpage.Presentation.final.pptx)
 [PROJECT COMPLETE.pdf](https://github.com/abhisek2004/LEARNING-PROJECT-1/files/13766873/PROJECT.COMPLETE.pdf)
 
-# SCREENSHOT
-
-
-
 # LEARNING-PROJECT-1 
 ## Social Linkup Webpage (Reach Me) - Connecting People Together
 
