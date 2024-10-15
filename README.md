@@ -1,6 +1,3 @@
-Sure! Here’s a similar README structure tailored for your project at `https://github.com/abhisek2004/LEARNING-PROJECT-1.git`:
-
----
 
 # LEARNING-PROJECT-1
 ## Social Linkup Webpage (Reach Me) - Connecting People Together
@@ -158,7 +155,3 @@ The project is actively under development, and contributions are welcome to enha
 </div>
 
 ### Show some ❤️ by starring this awesome repository!
-
----
-
-Feel free to adjust any sections or content to better suit your project's specifics!
