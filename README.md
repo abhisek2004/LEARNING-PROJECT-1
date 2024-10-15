@@ -10,16 +10,6 @@
 # SCREENSHOT
 
 
-PHP
-65.6%
-CSS
-18.5%
-Html
-8.1%
-JavaScript
-7.8%
-
-
 
 # LEARNING-PROJECT-1 
 ## Social Linkup Webpage (Reach Me) - Connecting People Together
