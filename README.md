@@ -1,18 +1,5 @@
-
 # LEARNING-PROJECT-1
 ## Social Linkup Webpage (Reach Me) - Connecting People Together
-
-**Created by:**  
-👨‍🎓 Abhisek Panda - 22CSE072  
-👨‍🎓 Gobinda Gagan Dey - 22CSE094  
-👨‍🎓 Debabrata Mishra - 22CSE140  
-
-**BACHELOR IN TECHNOLOGY**  
-**DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING**  
-**SCHOOL OF ENGINEERING AND TECHNOLOGY**  
-**GANDHI INSTITUTE OF ENGINEERING & TECHNOLOGY UNIVERSITY, GUNUPUR- 765022, ODISHA**  
-
-**September 2023**  
 
 ## 🚀 Getting Started
 
