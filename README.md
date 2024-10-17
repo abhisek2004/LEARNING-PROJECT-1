@@ -106,9 +106,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ---
-  Got it! Here’s the revised version for GitHub, focusing only on the specified sections:
-
----
 
 ## 📊 Current Status
 The project is currently in the development phase, with core features implemented and undergoing testing. 🛠️
