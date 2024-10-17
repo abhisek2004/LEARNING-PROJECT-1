@@ -16,9 +16,13 @@
 
 ---
 
+Here's a brief version of your getting started instructions:
+
+---
+
 ## 🚀 Getting Started
 
-To get a local copy of this project up and running, follow these steps:
+Follow these steps to get a local copy of the project:
 
 1. **Clone the repository:**
    ```bash
@@ -30,10 +34,13 @@ To get a local copy of this project up and running, follow these steps:
    cd LEARNING-PROJECT-1
    ```
 
-3. **Open the project:**
-   Open `index.html` in your browser to view the webpage.
+3. **Open `index.html` in your browser** to view the webpage.
 
----
+**Note:** This project uses HTML, CSS, JavaScript for the front end, and PHP for the back end. Use a local server (like XAMPP or WAMP) for PHP files.
+
+--- 
+
+Feel free to adjust any part of it!
 
 <div align="center">
 
