@@ -127,10 +127,6 @@ The project aims to create a robust platform for social interaction, and ongoing
 ## 📜 Description
 This webpage serves as a platform for users to connect, share experiences, and participate in various activities designed to enhance social interaction. 🌟
 
---- 
-
-Feel free to adjust any details as needed!
-
 ---
 ## 🔄 Current Status and Future Needs
 
