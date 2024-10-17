@@ -14,12 +14,6 @@
 
 **September 2023**  
 
----
-
-Here's a brief version of your getting started instructions:
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to get a local copy of the project:
