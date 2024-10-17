@@ -136,6 +136,18 @@ The project is actively under development, and contributions are welcome to enha
         <td><a href="https://github.com/abhisek2004" target="_blank">GitHub</a></td>
         <td>abhisek2004panda@gmail.com</td>
     </tr>
+    <tr>
+        <td>Member</td>
+<!--         <td><a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">LinkedIn</a></td> -->
+<!--         <td><a href="https://github.com/abhisek2004" target="_blank">GitHub</a></td> -->
+<!--         <td>abhisek2004panda@gmail.com</td> -->
+    </tr>
+    <tr>
+        <td>Member</td>
+<!--         <td><a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">LinkedIn</a></td> -->
+<!--         <td><a href="https://github.com/abhisek2004" target="_blank">GitHub</a></td> -->
+<!--         <td>abhisek2004panda@gmail.com</td> -->
+    </tr>
 </table>
 
 ---
