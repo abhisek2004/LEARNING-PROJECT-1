@@ -79,9 +79,18 @@ If you would like to contribute to the project, please follow our contribution g
 
 ---
 
-## <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
+<!-- Code of conduct -->
 
-We strive to create an inclusive environment. All contributors are expected to be respectful, empathetic, and use inclusive language. Please read our [Code of Conduct](Code_of_Conduct.md).
+## <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
+
+We are committed to fostering a welcoming and inclusive environment for everyone. All contributors and participants are expected to uphold the following values:
+
+- Be respectful of different viewpoints and experiences.
+- Show empathy toward others.
+- Use inclusive language.
+
+Please read and follow our [Code of Conduct](Code_of_Conduct.md) to foster an inclusive community.
+If anyone violates these standards, they may be banned from the community.
 
 ---
 
