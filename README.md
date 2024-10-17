@@ -106,24 +106,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ---
-Current Status
-The project is currently in the development phase, with core features implemented and undergoing testing.
-
-Future Needs
-Future enhancements could include:
-
-Improved user interface
-Enhanced security features
-Additional integrations (e.g., social media)
-Conclusion
-The project aims to create a robust platform for social interaction, and ongoing development will focus on user feedback to improve functionality.
-
-Key Objectives
-Facilitate communication among users
-Provide a user-friendly experience
-Encourage community engagement
-Description
-This webpage serves as a platform for users to connect, share experiences, and participate in various activities designed to enhance social interaction.
+   Current Status
+   The project is currently in the development phase, with core features implemented and undergoing testing.
+   
+   Future Needs
+   Future enhancements could include:
+   
+   Improved user interface
+   Enhanced security features
+   Additional integrations (e.g., social media)
+   Conclusion
+   The project aims to create a robust platform for social interaction, and ongoing development will focus on user feedback to improve functionality.
+   
+   Key Objectives
+   Facilitate communication among users
+   Provide a user-friendly experience
+   Encourage community engagement
+   Description
+   This webpage serves as a platform for users to connect, share experiences, and participate in various activities designed to enhance social interaction.
 
 ---
 
