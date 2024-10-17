@@ -38,10 +38,6 @@ Follow these steps to get a local copy of the project:
 
 **Note:** This project uses HTML, CSS, JavaScript for the front end, and PHP for the back end. Use a local server (like XAMPP or WAMP) for PHP files.
 
---- 
-
-Feel free to adjust any part of it!
-
 <div align="center">
 
 ### 💻 Tech Stacks
